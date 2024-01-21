@@ -1,0 +1,14 @@
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-container{
+    width: 30%;
+    background-color: rgba(128, 128, 128, 0.192);
+    border-radius: 5px;
+    padding: 10px;
+}
